@@ -1,0 +1,17 @@
+C:\Users\oleg.novak\OneDrive - Sigma Software LLC\Documents\PetProject\CementAndConcrete\CementAndConcrete.BLL\bin\Debug\net6.0\CementAndConcrete.BLL.deps.json
+C:\Users\oleg.novak\OneDrive - Sigma Software LLC\Documents\PetProject\CementAndConcrete\CementAndConcrete.BLL\bin\Debug\net6.0\CementAndConcrete.BLL.dll
+C:\Users\oleg.novak\OneDrive - Sigma Software LLC\Documents\PetProject\CementAndConcrete\CementAndConcrete.BLL\bin\Debug\net6.0\CementAndConcrete.BLL.pdb
+C:\Users\oleg.novak\OneDrive - Sigma Software LLC\Documents\PetProject\CementAndConcrete\CementAndConcrete.BLL\bin\Debug\net6.0\CementAndConcrete.DAL.dll
+C:\Users\oleg.novak\OneDrive - Sigma Software LLC\Documents\PetProject\CementAndConcrete\CementAndConcrete.BLL\bin\Debug\net6.0\CementAndConcrete.Domain.dll
+C:\Users\oleg.novak\OneDrive - Sigma Software LLC\Documents\PetProject\CementAndConcrete\CementAndConcrete.BLL\bin\Debug\net6.0\CementAndConcrete.DAL.pdb
+C:\Users\oleg.novak\OneDrive - Sigma Software LLC\Documents\PetProject\CementAndConcrete\CementAndConcrete.BLL\bin\Debug\net6.0\CementAndConcrete.Domain.pdb
+C:\Users\oleg.novak\OneDrive - Sigma Software LLC\Documents\PetProject\CementAndConcrete\CementAndConcrete.BLL\obj\Debug\net6.0\CementAndConcrete.BLL.csproj.AssemblyReference.cache
+C:\Users\oleg.novak\OneDrive - Sigma Software LLC\Documents\PetProject\CementAndConcrete\CementAndConcrete.BLL\obj\Debug\net6.0\CementAndConcrete.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oleg.novak\OneDrive - Sigma Software LLC\Documents\PetProject\CementAndConcrete\CementAndConcrete.BLL\obj\Debug\net6.0\CementAndConcrete.BLL.AssemblyInfoInputs.cache
+C:\Users\oleg.novak\OneDrive - Sigma Software LLC\Documents\PetProject\CementAndConcrete\CementAndConcrete.BLL\obj\Debug\net6.0\CementAndConcrete.BLL.AssemblyInfo.cs
+C:\Users\oleg.novak\OneDrive - Sigma Software LLC\Documents\PetProject\CementAndConcrete\CementAndConcrete.BLL\obj\Debug\net6.0\CementAndConcrete.BLL.csproj.CoreCompileInputs.cache
+C:\Users\oleg.novak\OneDrive - Sigma Software LLC\Documents\PetProject\CementAndConcrete\CementAndConcrete.BLL\obj\Debug\net6.0\CementAndConcrete.BLL.csproj.CopyComplete
+C:\Users\oleg.novak\OneDrive - Sigma Software LLC\Documents\PetProject\CementAndConcrete\CementAndConcrete.BLL\obj\Debug\net6.0\CementAndConcrete.BLL.dll
+C:\Users\oleg.novak\OneDrive - Sigma Software LLC\Documents\PetProject\CementAndConcrete\CementAndConcrete.BLL\obj\Debug\net6.0\refint\CementAndConcrete.BLL.dll
+C:\Users\oleg.novak\OneDrive - Sigma Software LLC\Documents\PetProject\CementAndConcrete\CementAndConcrete.BLL\obj\Debug\net6.0\CementAndConcrete.BLL.pdb
+C:\Users\oleg.novak\OneDrive - Sigma Software LLC\Documents\PetProject\CementAndConcrete\CementAndConcrete.BLL\obj\Debug\net6.0\ref\CementAndConcrete.BLL.dll

@@ -1,0 +1,12 @@
+C:\Users\oleg.novak\OneDrive - Sigma Software LLC\Documents\PetProject\CementAndConcrete\CementAndConcrete.Domain\bin\Debug\net6.0\CementAndConcrete.Domain.deps.json
+C:\Users\oleg.novak\OneDrive - Sigma Software LLC\Documents\PetProject\CementAndConcrete\CementAndConcrete.Domain\bin\Debug\net6.0\CementAndConcrete.Domain.dll
+C:\Users\oleg.novak\OneDrive - Sigma Software LLC\Documents\PetProject\CementAndConcrete\CementAndConcrete.Domain\bin\Debug\net6.0\CementAndConcrete.Domain.pdb
+C:\Users\oleg.novak\OneDrive - Sigma Software LLC\Documents\PetProject\CementAndConcrete\CementAndConcrete.Domain\obj\Debug\net6.0\CementAndConcrete.Domain.csproj.AssemblyReference.cache
+C:\Users\oleg.novak\OneDrive - Sigma Software LLC\Documents\PetProject\CementAndConcrete\CementAndConcrete.Domain\obj\Debug\net6.0\CementAndConcrete.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oleg.novak\OneDrive - Sigma Software LLC\Documents\PetProject\CementAndConcrete\CementAndConcrete.Domain\obj\Debug\net6.0\CementAndConcrete.Domain.AssemblyInfoInputs.cache
+C:\Users\oleg.novak\OneDrive - Sigma Software LLC\Documents\PetProject\CementAndConcrete\CementAndConcrete.Domain\obj\Debug\net6.0\CementAndConcrete.Domain.AssemblyInfo.cs
+C:\Users\oleg.novak\OneDrive - Sigma Software LLC\Documents\PetProject\CementAndConcrete\CementAndConcrete.Domain\obj\Debug\net6.0\CementAndConcrete.Domain.csproj.CoreCompileInputs.cache
+C:\Users\oleg.novak\OneDrive - Sigma Software LLC\Documents\PetProject\CementAndConcrete\CementAndConcrete.Domain\obj\Debug\net6.0\CementAndConcrete.Domain.dll
+C:\Users\oleg.novak\OneDrive - Sigma Software LLC\Documents\PetProject\CementAndConcrete\CementAndConcrete.Domain\obj\Debug\net6.0\refint\CementAndConcrete.Domain.dll
+C:\Users\oleg.novak\OneDrive - Sigma Software LLC\Documents\PetProject\CementAndConcrete\CementAndConcrete.Domain\obj\Debug\net6.0\CementAndConcrete.Domain.pdb
+C:\Users\oleg.novak\OneDrive - Sigma Software LLC\Documents\PetProject\CementAndConcrete\CementAndConcrete.Domain\obj\Debug\net6.0\ref\CementAndConcrete.Domain.dll

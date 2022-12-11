@@ -1,0 +1,59 @@
+﻿<UserControl x:Class="CementAndConcrete.WPF.Views.DataControls.BuilderControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:local="clr-namespace:CementAndConcrete.WPF.Extensions"
+             xmlns:localEnum="clr-namespace:CementAndConcrete.Domain.Enums;assembly=CementAndConcrete.Domain"
+             mc:Ignorable="d">
+
+    <GroupBox Header="Details">
+
+        <Grid Margin="30">
+            <Grid.Resources>
+
+            </Grid.Resources>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+
+            <TextBlock Margin="10" Grid.Column="0" Grid.Row="0" Text="FirstName" Foreground="#fff" />
+            <TextBlock Margin="10" Grid.Column="0" Grid.Row="1" Text="LastName" Foreground="#fff" />
+            <TextBlock Margin="10" Grid.Column="0" Grid.Row="2" Text="Phone" Foreground="#fff" />
+            <TextBlock Margin="10" Grid.Column="0" Grid.Row="3" Text="Skill" Foreground="#fff" />
+
+            <TextBox Margin="10" Grid.Column="1" Grid.Row="0"
+                     Name="FirstName"
+                     Text="{Binding SelectedListingData.Element.FirstName, Mode=TwoWay, 
+                                    UpdateSourceTrigger=PropertyChanged}" />
+            <TextBox Margin="10" Grid.Column="1" Grid.Row="1"
+                     Name="LastName"
+                     Text="{Binding SelectedListingData.Element.LastName, Mode=TwoWay, 
+                                    UpdateSourceTrigger=PropertyChanged}" />
+            <TextBox Margin="10" Grid.Column="1" Grid.Row="2"
+                     Name="Phone"
+
+                     Text="{Binding SelectedListingData.Element.Phone, Mode=TwoWay, 
+                                    UpdateSourceTrigger=PropertyChanged}"
+                     PreviewTextInput="Phone_OnPreviewTextInput" />
+
+            <ComboBox Margin="10 "
+                      Grid.Column="1"
+                      Grid.Row="3"
+                      ItemsSource="{Binding Source={local:BindingEnums {x:Type localEnum: SkillLevel}}}"
+                      Text="{Binding SelectedListingData.Element.Skill, Mode=TwoWay}"
+                      SelectedValue="{Binding SelectedListingData.Element.Skill, Mode=TwoWay}" />
+
+        </Grid>
+
+    </GroupBox>
+
+
+</UserControl>

@@ -1,0 +1,15 @@
+C:\Users\oleg.novak\OneDrive - Sigma Software LLC\Documents\PetProject\CementAndConcrete\CementAndConcrete.DAL\bin\Debug\net6.0\CementAndConcrete.DAL.deps.json
+C:\Users\oleg.novak\OneDrive - Sigma Software LLC\Documents\PetProject\CementAndConcrete\CementAndConcrete.DAL\bin\Debug\net6.0\CementAndConcrete.DAL.dll
+C:\Users\oleg.novak\OneDrive - Sigma Software LLC\Documents\PetProject\CementAndConcrete\CementAndConcrete.DAL\bin\Debug\net6.0\CementAndConcrete.DAL.pdb
+C:\Users\oleg.novak\OneDrive - Sigma Software LLC\Documents\PetProject\CementAndConcrete\CementAndConcrete.DAL\bin\Debug\net6.0\CementAndConcrete.Domain.dll
+C:\Users\oleg.novak\OneDrive - Sigma Software LLC\Documents\PetProject\CementAndConcrete\CementAndConcrete.DAL\bin\Debug\net6.0\CementAndConcrete.Domain.pdb
+C:\Users\oleg.novak\OneDrive - Sigma Software LLC\Documents\PetProject\CementAndConcrete\CementAndConcrete.DAL\obj\Debug\net6.0\CementAndConcrete.DAL.csproj.AssemblyReference.cache
+C:\Users\oleg.novak\OneDrive - Sigma Software LLC\Documents\PetProject\CementAndConcrete\CementAndConcrete.DAL\obj\Debug\net6.0\CementAndConcrete.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oleg.novak\OneDrive - Sigma Software LLC\Documents\PetProject\CementAndConcrete\CementAndConcrete.DAL\obj\Debug\net6.0\CementAndConcrete.DAL.AssemblyInfoInputs.cache
+C:\Users\oleg.novak\OneDrive - Sigma Software LLC\Documents\PetProject\CementAndConcrete\CementAndConcrete.DAL\obj\Debug\net6.0\CementAndConcrete.DAL.AssemblyInfo.cs
+C:\Users\oleg.novak\OneDrive - Sigma Software LLC\Documents\PetProject\CementAndConcrete\CementAndConcrete.DAL\obj\Debug\net6.0\CementAndConcrete.DAL.csproj.CoreCompileInputs.cache
+C:\Users\oleg.novak\OneDrive - Sigma Software LLC\Documents\PetProject\CementAndConcrete\CementAndConcrete.DAL\obj\Debug\net6.0\CementAndConcrete.DAL.csproj.CopyComplete
+C:\Users\oleg.novak\OneDrive - Sigma Software LLC\Documents\PetProject\CementAndConcrete\CementAndConcrete.DAL\obj\Debug\net6.0\CementAndConcrete.DAL.dll
+C:\Users\oleg.novak\OneDrive - Sigma Software LLC\Documents\PetProject\CementAndConcrete\CementAndConcrete.DAL\obj\Debug\net6.0\refint\CementAndConcrete.DAL.dll
+C:\Users\oleg.novak\OneDrive - Sigma Software LLC\Documents\PetProject\CementAndConcrete\CementAndConcrete.DAL\obj\Debug\net6.0\CementAndConcrete.DAL.pdb
+C:\Users\oleg.novak\OneDrive - Sigma Software LLC\Documents\PetProject\CementAndConcrete\CementAndConcrete.DAL\obj\Debug\net6.0\ref\CementAndConcrete.DAL.dll
